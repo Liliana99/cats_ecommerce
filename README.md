@@ -1,6 +1,6 @@
 # Flutter eCommerce App
 
-This is the official Flutter Project for this course:
+![](assets/cats_ecommerce_test.gif)
 
 - [Complete Flutter Course Bundle](https://codewithandrea.com/courses/complete-flutter-bundle/)
 
