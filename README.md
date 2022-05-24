@@ -19,8 +19,9 @@ git clone [repo_url]
 flutter pub get
 
 flutter run --dart
-```
+![](assets/cats_presentation_sound.gif)
 ![](assets/cats_ecommerce_test.gif)
+
 
 ## Flutter packages
 
