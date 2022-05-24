@@ -19,21 +19,20 @@ git clone [repo_url]
 flutter pub get
 
 flutter run --dart
-![](assets/cats_presentation_sound.gif) ![](assets/cats_ecommerce_test.gif)
+[](assets/cats_ecommerce_test.gif)
 
 
 
 ## Flutter packages
 
- flutter_launcher_icons
-  flutter_lints
-  flutter_localizations:
-
-  intl: 
-  flutter_layout_grid: 
-  flutter_rating_bar: 
-  flutter_svg:   
-  google_fonts: 
-  get:
+ - [flutter_launcher_icons]
+ - [flutter_lints]
+ - [flutter_localizations]
+ - [ intl ]
+ - [flutter_layout_grid]
+ - [flutter_rating_bar] 
+ - [flutter_svg] 
+  -[google_fonts] 
+  -[get]
 
 ### [LICENSE: MIT](../LICENSE.md)
