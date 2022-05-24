@@ -12,9 +12,13 @@ To demostrate
 
 ## To get started 
 To start run the following commands 
+
 git clone [repo_url]
+
 flutter pub get
+
 flutter run --dart
+
 
 ![](assets/cats_ecommerce_test.gif)
 
