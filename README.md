@@ -20,7 +20,7 @@ flutter pub get
 
 flutter run --dart
 ![](assets/cats_ecommerce_test.gif)
-![](assets/cats_testing.jpg)
+
 
 
 
@@ -39,5 +39,6 @@ flutter run --dart
 # Testing
 ### ✅ Integration Test E2E
 Implement Robot Pattern 
+![](assets/cats_testing.jpg)
 
 ### [LICENSE: MIT](../LICENSE.md)
