@@ -20,6 +20,7 @@ flutter pub get
 
 flutter run --dart
 ![](assets/cats_ecommerce_test.gif)
+![](assets/Captura de Pantalla 2022-05-24 a las 4.39.20.png)
 
 
 
