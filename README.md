@@ -1,16 +1,17 @@
-# Flutter eCommerce App
+# Flutter Cats App
+The objective of this flutter application about asynchronous programming in Dart II.
+To demostrate 
 
+## how to implemented integration test e2e using pattern robots
+
+
+- ✅  Clean Architecture
+- ✅  Testing
+- ✅  Performance
+- ✅  Custom Animations
+
+## To get started 
 ![](assets/cats_ecommerce_test.gif)
-
-- [Complete Flutter Course Bundle](https://codewithandrea.com/courses/complete-flutter-bundle/)
-
-This will include a full-stack eCommerce app using Flutter & Firebase:
-
-![eCommerce App Preview](/.github/images/ecommerce-app-preview.png)
-
-A Flutter web preview of the app can be found here:
-
-- [Flutter Web Demo](https://my-shop-ecommerce-stg.web.app/)
 
 
 ### [LICENSE: MIT](../LICENSE.md)
