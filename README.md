@@ -19,7 +19,7 @@ git clone [repo_url]
 flutter pub get
 
 flutter run --dart
-[](assets/cats_ecommerce_test.gif)
+![](assets/cats_ecommerce_test.gif)
 
 
 
@@ -34,5 +34,9 @@ flutter run --dart
  - [flutter_svg] 
   -[google_fonts] 
   -[get]
+  
+# Testing
+### ✅ Integration Test E2E
+Implement Robot Pattern 
 
 ### [LICENSE: MIT](../LICENSE.md)
