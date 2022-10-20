@@ -26,7 +26,7 @@ flutter run --dart
 
 
 ## Flutter packages
-
+   -[get] (Getx)
  - [flutter_launcher_icons]
  - [flutter_lints]
  - [flutter_localizations]
@@ -35,7 +35,7 @@ flutter run --dart
  - [flutter_rating_bar] 
  - [flutter_svg] 
   -[google_fonts] 
-  -[get]
+
   
 # Testing
 ### ✅ Integration Test E2E
