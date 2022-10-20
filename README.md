@@ -26,7 +26,7 @@ flutter run --dart
 
 
 ## Flutter packages
-   -[get] (Getx)
+ - [get] (Getx)
  - [flutter_launcher_icons]
  - [flutter_lints]
  - [flutter_localizations]
